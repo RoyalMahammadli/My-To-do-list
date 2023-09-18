@@ -21,3 +21,11 @@ button:hover{
   cursor: pointer;
 
 }
+.flex{
+  width: 72%;
+  display: flex;
+  justify-content: space-between;
+}
+.none{
+  display: none;
+}
