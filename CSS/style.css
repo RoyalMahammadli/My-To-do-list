@@ -1,0 +1,23 @@
+
+section {
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 5rem;
+}
+
+.box {
+  border: 2px solid royalblue;
+  padding: 2rem;
+
+}
+.typeAndAdd{
+  display: flex;
+}
+input,button{
+  padding: .4rem;
+  border-radius: 7px;
+}
+button:hover{
+  cursor: pointer;
+
+}
